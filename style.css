@@ -1,8 +1,29 @@
 body {
-    background: rgb(245, 196, 196);
+    background: rgb(200, 228, 231);
   } 
 
 h1 {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Times New Roman'
+}
+
+h3 {
+    font-family: 'Times New Roman'
+}
+
+img {
+    width:  338px;
+    height: 500px;
+    object-fit: cover;
+}
+
+div {
+    float: left;
+    text-align: center;
+    width: 25%;
 }
